@@ -1,4 +1,4 @@
-## Deploy Object Detection API with AWS Lambda, Rekognition, and API Gateway
+# Deploy Object Detection API with AWS Lambda, Rekognition, and API Gateway
 
 ### [Watch this tutorial►](https://youtu.be/YWmnD_QcZQU)
 <img src="https://github.com/Spidy20/Object-Detection-API-Lambda/blob/master/yt_thumb.jpg">
